@@ -1,6 +1,6 @@
 # <h2>Cory REACT Project-1</h2>
 
-<h1>Topics Covered</h1>
+###Topics Covered
 <i>
 - Props
 - React Tools
@@ -13,7 +13,7 @@
 
 <br>
 
-<h1>Component Life Cycle Methods</h1>
+###Component Life Cycle Methods
 
 **Mounting**
 
