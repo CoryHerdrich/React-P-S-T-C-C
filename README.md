@@ -16,6 +16,7 @@
 <h1>Component Life Cycle Methods</h1>
 
 **Mounting**
+
 *Methods called when an instance of a component is being created and inserted into the DOM.*
 <i>
 - constructor()
@@ -25,7 +26,10 @@
 - componentDidMount()
 </i>
 
+* * *
+
 **Updating**
+
 *An update can be caused by changes to props or state. These methods are called when a component is being re-rendered.*
 <i>
 - componentWillReceiveProps()
@@ -37,13 +41,19 @@
 - componentDidUpdate()
 </i>
 
+* * *
+
 **Unmounting**
+
 *This method is called when a component is being removed from the DOM.*
 <i>
 - componentWillUnmount()
 </i>
 
+* * *
+
 **Error Handling**
+
 *This method is called when there is an error during rendering, in a lifecycle method, or in the constructor of any child component.*
 <i>
 - componentDidCatch()
