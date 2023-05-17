@@ -3,11 +3,17 @@
 <h1>Topics Covered</h1>
 <i>
 - Props
+
 - React Tools
+
 - State
+
 - this
+
 - Functional vs Class components
+
 - Component Based Architecture
+
 - Code Organization
 </i>
 
