@@ -1,6 +1,6 @@
 # <h3>Cory REACT Project-1</h3>
 
-<h2>Topics Covered</h1>
+<h1>Topics Covered</h1>
 <i>
 - Props
 - React Tools
