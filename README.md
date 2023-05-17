@@ -19,7 +19,7 @@ Code Organization
 
 <br>
 
-<h2>Component Life Cycle Methods</h2>
+<h3>Component Life Cycle Methods</h3>
 
 <h3>Mounting</h3>
 
