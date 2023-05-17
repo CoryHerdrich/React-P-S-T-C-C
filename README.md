@@ -1,6 +1,6 @@
-# <h2>Cory REACT Project-1</h2>
+# <h3>Cory REACT Project-1</h3>
 
-###Topics Covered
+<h2>Topics Covered</h2>
 <i>
 - Props
 - React Tools
@@ -13,24 +13,24 @@
 
 <br>
 
-###Component Life Cycle Methods
+<h2>Component Life Cycle Methods</h2>
 
 <h3>Mounting</h3>
 
-*These methods are called when an instance of a component is being created and inserted into the DOM:*
-
+These methods are called when an instance of a component is being created and inserted into the *DOM*
+<i>
 - constructor()
 - static getDerivedStateFromProps()
 - componentWillMount()
 - render()
 - componentDidMount()
-
+</i>
 * * *
 
 <h3>Updating</h3>
 
-*An update can be caused by changes to props or state. These methods are called when a component is being re-rendered:*
-
+An update can be caused by changes to *props* or *state*. These methods are called when a component is being re-rendered:
+<i>
 - componentWillReceiveProps()
 - static getDerivedStateFromProps()
 - shouldComponentUpdate()
@@ -38,21 +38,21 @@
 - render()
 - getSnapshotBeforeUpdate()
 - componentDidUpdate()
-
+</i>
 * * *
 
 <h3>Unmounting</h3>
 
-*This method is called when a component is being removed from the DOM:*
-
+This method is called when a *component* is being removed from the *DOM*
+<i>
 - componentWillUnmount()
-
+</i>
 * * *
 
 <h3>Error Handling</h3>
 
-*This method is called when there is an error during rendering, in a lifecycle method, or in the constructor of any child component.*
-
+This method is called when there is an error during rendering, in a *lifecycle method*, or in the constructor of any child component.
+<i>
 - componentDidCatch()
-
+</i>
 * * *
