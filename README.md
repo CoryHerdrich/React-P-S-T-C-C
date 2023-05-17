@@ -17,21 +17,20 @@
 
 **Mounting**
 
-*Methods called when an instance of a component is being created and inserted into the DOM.*
-<i>
+*These methods are called when an instance of a component is being created and inserted into the DOM:*
+
 - constructor()
-- static getDirivedStateFromProps()
+- static getDerivedStateFromProps()
 - componentWillMount()
 - render()
 - componentDidMount()
-</i>
 
 * * *
 
 **Updating**
 
-*An update can be caused by changes to props or state. These methods are called when a component is being re-rendered.*
-<i>
+*An update can be caused by changes to props or state. These methods are called when a component is being re-rendered:*
+
 - componentWillReceiveProps()
 - static getDerivedStateFromProps()
 - shouldComponentUpdate()
@@ -39,22 +38,21 @@
 - render()
 - getSnapshotBeforeUpdate()
 - componentDidUpdate()
-</i>
 
 * * *
 
 **Unmounting**
 
-*This method is called when a component is being removed from the DOM.*
-<i>
+*This method is called when a component is being removed from the DOM:*
+
 - componentWillUnmount()
-</i>
 
 * * *
 
 **Error Handling**
 
 *This method is called when there is an error during rendering, in a lifecycle method, or in the constructor of any child component.*
-<i>
+
 - componentDidCatch()
-</i>
+
+* * *
