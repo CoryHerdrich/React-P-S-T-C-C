@@ -1,6 +1,6 @@
 # Cory REACT Project1
 
-Topics Covered
+<b>Topics Covered</b>
 
 - Props
 - React Tools
@@ -9,3 +9,4 @@ Topics Covered
 - Functional vs Class components
 - Component Based Architecture
 - Code Organization
+- test
