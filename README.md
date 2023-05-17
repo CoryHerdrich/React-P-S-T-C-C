@@ -1,21 +1,21 @@
 # <h3>Cory REACT Project-1</h3>
 
 <h1>Topics Covered</h1>
-<i>
-- Props
+<b>
+Props
 
-- React Tools
+React Tools
 
-- State
+State
 
-- this
+this
 
-- Functional vs Class components
+Functional vs Class components
 
-- Component Based Architecture
+Component Based Architecture
 
-- Code Organization
-</i>
+Code Organization
+</b>
 
 <br>
 
