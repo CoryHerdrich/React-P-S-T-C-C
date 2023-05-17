@@ -1,6 +1,6 @@
-# Cory REACT Project1
+# Cory REACT Project-1
 
-<b>Topics Covered</b>
+<h1><b>Topics Covered</b></h>
 <i>
 - Props
 - React Tools
